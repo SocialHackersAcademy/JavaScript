@@ -4,7 +4,7 @@
 > or links, please share them by [opening a pull request](https://github.com/SocialHackersCodeSchool/JavaScript/pulls).
 
 # JavaScript!
-Here we learn JavaScript, starting from scratch and go on to advanced concepts split to 3 modules.  
+Here we learn JavaScript, starting from scratch and moving on to more advanced concepts.  
 
 ## Module #2 - [JavaScript1](https://github.com/SocialHackersCodeSchool/JavaScript1/)
 
